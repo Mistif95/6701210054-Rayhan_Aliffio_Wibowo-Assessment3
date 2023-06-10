@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "nama_villa": "Villa Lembah Gambung",
+        "harga": "2000000",
+        "ketersediaan": "1",
+        "deskripsi": ""
+    },
+    {
+        "id": "2",
+        "nama_villa": "Jungle Resort Agrapuri",
+        "harga": "2500000",
+        "ketersediaan": "1",
+        "deskripsi": ""
+    },
+    {
+        "id": "3",
+        "nama_villa": "Villa Teras Ki Damar",
+        "harga": "3500000",
+        "ketersediaan": "1",
+        "deskripsi": ""
+    },
+    {
+        "id": "4",
+        "nama_villa": "Villa Kampung Karuhun Sutan Raja",
+        "harga": "1800000",
+        "ketersediaan": "1",
+        "deskripsi": ""
+    },
+    {
+        "id": "5",
+        "nama_villa": "Villa Aubrey Ciwidey",
+        "harga": "1800000",
+        "ketersediaan": "0",
+        "deskripsi": ""
+    },
+    {
+        "id": "6",
+        "nama_villa": "Villa Lembah Gambung",
+        "harga": "1200000",
+        "ketersediaan": "0",
+        "deskripsi": ""
+    },
+    {
+        "id": "7",
+        "nama_villa": "Villa Palalangan",
+        "harga": "1750000",
+        "ketersediaan": "0",
+        "deskripsi": ""
+    },
+    {
+        "id": "8",
+        "nama_villa": "Villa Atas Nurma",
+        "harga": "2000000",
+        "ketersediaan": "0",
+        "deskripsi": ""
+    },
+    {
+        "id": "9",
+        "nama_villa": "Argapuri Jungle Resort",
+        "harga": "1300000",
+        "ketersediaan": "0",
+        "deskripsi": ""
+    },
+    {
+        "id": "10",
+        "nama_villa": "DummyName",
+        "harga": "2500000",
+        "ketersediaan": "1",
+        "deskripsi": "Update Dummy Data"
+    }
+]
